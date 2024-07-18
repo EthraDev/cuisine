@@ -1,0 +1,105 @@
+{
+    "recettes": [
+        {
+            "id": 1,
+            "titre": "Spaghetti Carbonara",
+            "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+            "ingredients": [
+                {
+                    "nom": "Spaghetti",
+                    "quantité": "200g"
+                },
+                {
+                    "nom": "Pancetta",
+                    "quantité": "100g"
+                },
+                {
+                    "nom": "Eggs",
+                    "quantité": "2"
+                },
+                {
+                    "nom": "Parmesan cheese",
+                    "quantité": "50g"
+                },
+                {
+                    "nom": "Black pepper",
+                    "quantité": "to taste"
+                },
+                {
+                    "nom": "Salt",
+                    "quantité": "to taste"
+                }
+            ],
+            "préparation": [
+                "Boil the spaghetti in salted water according to the package instructions.",
+                "Fry the pancetta in a large pan until crispy.",
+                "Beat the eggs in a bowl and mix in the grated Parmesan cheese.",
+                "Drain the spaghetti and add it to the pan with the pancetta.",
+                "Remove the pan from the heat and quickly mix in the egg and cheese mixture.",
+                "Season with black pepper and serve immediately."
+            ],
+            "tempsPrep": "10 minutes",
+            "tempsCuisson": "20 minutes",
+            "tempsTotal": "30 minutes",
+            "portions": 2,
+            "catégorie": "Main course",
+            "gastronomie": "Italian"
+        },
+        {
+            "id": 2,
+            "titre": "Chocolate Cake",
+            "description": "A rich and moist chocolate cake perfect for any occasion.",
+            "ingredients": [
+                {
+                    "nom": "Flour",
+                    "quantité": "200g"
+                },
+                {
+                    "nom": "Cocoa powder",
+                    "quantité": "50g"
+                },
+                {
+                    "nom": "Sugar",
+                    "quantité": "200g"
+                },
+                {
+                    "nom": "Butter",
+                    "quantité": "100g"
+                },
+                {
+                    "nom": "Eggs",
+                    "quantité": "3"
+                },
+                {
+                    "nom": "Baking powder",
+                    "quantité": "1 tsp"
+                },
+                {
+                    "nom": "Milk",
+                    "quantité": "150ml"
+                },
+                {
+                    "nom": "Vanilla extract",
+                    "quantité": "1 tsp"
+                }
+            ],
+            "préparation": [
+                "Preheat the oven to 180°C (350°F).",
+                "Grease and flour a cake pan.",
+                "In a large bowl, cream together the butter and sugar until light and fluffy.",
+                "Add the eggs one at a time, beating well with each addition.",
+                "In another bowl, sift together the flour, cocoa powder, and baking powder.",
+                "Gradually add the dry ingredients to the wet mixture, alternating with the milk.",
+                "Stir in the vanilla extract.",
+                "Pour the batter into the prepared pan and bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+                "Allow the cake to cool in the pan for 10 minutes, then turn it out onto a wire rack to cool completely."
+            ],
+            "tempsPrep": "20 minutes",
+            "tempsCuisson": "40 minutes",
+            "tempsTotal": "1 hour",
+            "portions": 8,
+            "catégorie": "Dessert",
+            "gastronomie": "American"
+        }
+    ]
+}
